@@ -1,5 +1,3 @@
-# Pensamento-Computacional-Atividades-JavaScript
-
 # Noções de Programação - Estruturas Sequenciais
 **Disciplina: Pensamento Computacional**
 
